@@ -8,7 +8,7 @@
 😄 Pronouns: ...  
 ⚡ Fun fact: I like to eat lots of mandarines :)
 
-## Project Overview
+## Project Overview 
 
 This project is a Personal Finance Dashboard, which is the beginning of my personal finance app. The dashboard visualizes my own banking data and will progress towards personal financial modeling and interactive dashboards.
 
