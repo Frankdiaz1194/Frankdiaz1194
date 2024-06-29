@@ -51,7 +51,7 @@ def generate_monthly_projections_plot(df):
     return p
 
 # Change the working directory to where the Excel file is located
-os.chdir("G:\My Drive\school\ecc fresman and sophommore\FrankNance1")
+os.chdir("C:/Users/frank/OneDrive/Escritorio/Frankdiaz1194")
 
 # Load the Excel data into a DataFrame
 df = pd.read_excel('Monthly_Expenses.xlsx')

@@ -4,13 +4,13 @@ Created on Sat Jun 22 11:34:41 2024
 
 @author: frank
 """
-http://localhost:5006/FInance_trial
+http://localhost:5006/FInance_trial2
 import os
 
 #Running the Dashboard
 
 # Change the working directory to where the Excel file is located
-os.chdir("G:\My Drive\school\ecc fresman and sophommore\FrankNance1\Python")
+os.chdir("C:/Users/frank/OneDrive/Escritorio/Frankdiaz1194/Python")
 
 # Start the Panel server with autoreload enabled
 !panel serve --autoreload --show FInance_trial2.py
